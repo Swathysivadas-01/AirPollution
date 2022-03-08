@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FavouriteService/FavouriteService.iml" filepath="$PROJECT_DIR$/FavouriteService/FavouriteService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recommendcity-service/RecommendCity-Service.iml" filepath="$PROJECT_DIR$/recommendcity-service/RecommendCity-Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/airwatcher-service/airwatcher-service.iml" filepath="$PROJECT_DIR$/airwatcher-service/airwatcher-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jwt-service/jwt-service.iml" filepath="$PROJECT_DIR$/jwt-service/jwt-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/newproject.iml" filepath="$PROJECT_DIR$/.idea/newproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recommended-service/recommended-service.iml" filepath="$PROJECT_DIR$/recommended-service/recommended-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuulapiGateway/zuulapiGateway.iml" filepath="$PROJECT_DIR$/zuulapiGateway/zuulapiGateway.iml" />
+    </modules>
+  </component>
+</project>
